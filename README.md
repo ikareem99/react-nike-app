@@ -32,7 +32,7 @@ Clone this repository and get started in seconds!
 ```sh
 # 1️⃣ Clone the project
 git clone https://github.com/ikareem99/react-nike-app.git
-cd character-counter
+cd react-nike-app
 
 # 2️⃣ Install dependencies
 npm install
